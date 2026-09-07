@@ -5,4 +5,4 @@ print("Chay Python bang Miniconda thanh cong!")
 a = 20
 b = 20
 
-print("Tong =", a + b)
+print("Tong =", a * b)
